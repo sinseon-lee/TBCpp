@@ -14,5 +14,8 @@ int main()
 	std::cout << x << std::endl;
 	std::cout << &x << std::endl; // & : 변수명의 주소를 가져옴
 
+
+	
+	
 	return 0;
 }
